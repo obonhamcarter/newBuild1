@@ -1,7 +1,7 @@
 baseURL = "https://deft-llama-b0d7f3.netlify.app"
 languageCode = "en-us"
 title = "Edna West"
-theme = "themes/personal-web"
+theme = "/themes/personal-web"
 copyright="© Edna West"
 googleAnalytics = ""
 enableEmoji=true
